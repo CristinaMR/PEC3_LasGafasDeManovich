@@ -41,10 +41,9 @@ En el comunicado de prensa para el anuncio de las gafas de realidad extendida de
 Auque a día de hoy estas gafas son todavía un prototipo y a fines prácticos habrá que esperar al lanzamiento en marzo de 2024 para comprobar cómo fusionan efectivamente el mundo real y el virtual, Apple hace que todo suene como si estuvieran inventando la rueda y no solo sacando su propia *visión* de la realidad mixta. Pero ¿qué son la realidad mixta o la realidad extendida?
 
 ### Realidades paralelas
-
 **Realidad extendida** es un concepto paraguas que engloba el conjunto de tecnologías inmersivas de realidad virtual, realidad aumentada y realidad mixta. Suele ser referido por su acrónimo en inglés XR, de *extended reality*.[^7]
 
-La **realidad virtual**(VR por sus siglas en inglés) coloca al usuario en un entorno netamente generado por ordenador en el que puede moverse gracias a controles externos como gafas integrales o guanteletes de acción. La VR es común en el mundo de los videojuegos si bien, a estas alturas, parece la más arcaica de todas las realidades extendidas.
+La **realidad virtual** (VR por sus siglas en inglés) coloca al usuario en un entorno netamente generado por ordenador en el que puede moverse gracias a controles externos como gafas integrales o guanteletes de acción. La VR es común en el mundo de los videojuegos si bien, a estas alturas, parece la más arcaica de todas las realidades extendidas.
 
 La **realidad aumentada** (AR) superpone elementos digitales sobre el mundo real, sirviéndose comúnmente de las cámaras y pantallas de los dispositivos móviles. Su referente más popular es sin duda el juego japonés Pokémon Go!
 
@@ -57,7 +56,6 @@ Por tanto, parece claro que la nueva apuesta de Apple es una realidad mixta (la 
 
 
 ## Colofón
-
 Reconoce Manovich, en las conclusiones de su libro El software toma el mando, que, si bien se ha centrado en analizar la evolución del software de creación y edición de medios, esta evolución está vinculada intrínsecamente al desarrollo paralelo del hardware.
 > Más monitores de alta resolución, dispositivos de almacenado más grandes y más baratos, redes más rápidas, conectividad más sencilla entre dispositivos para la captura, almacenado, edición, distribución y reproducción de medios… Todos estos desarrollos amplían automáticamente las capacidades de los medios informáticos y alteran las posibilidades de la imaginación y el diseño.— Lev Manovich.[^8]
 
@@ -71,10 +69,8 @@ Empezaba este análisis diciendo que los medios ya no se limitan a existir de ma
 
 
 ## Licencias
-
 ### Licencia general
 Este trabajo está realizado bajo una licencia [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/ "Licencia CC BY-NC 4.0").
-
 ### Licencias de las imágenes
 - Amazon Echo Dott: Imagen de [Finn](https://pixabay.com/es/users/finnhart-11150077/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4758340 "Finn") en [Pixabay](https://pixabay.com/es//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4758340 "Pixabay").
 - Apple Vision Pro: Imagen proporcionada por Apple para fines personales, editoriales y no comerciales en el [comunicado de prensa del 5 de junio de 2023](https://www.apple.com/la/newsroom/2023/06/introducing-apple-vision-pro/ "Comunicado de prensa de las Apple Vision Pro"). Esta imagen no se puede alterar ni modificar de ninguna forma, ya sea en parte o en su totalidad, que pueda perjudicar a Apple.
@@ -91,7 +87,6 @@ Este trabajo está realizado bajo una licencia [CC BY-NC 4.0](https://creativeco
 
 [^6]:	Apple España PR. (5 de junio de 2023). Presentamos Apple Vision Pro: la primera computadora espacial de Apple. [https://www.apple.com/la/newsroom/2023/06/introducing-apple-vision-pro/](https://www.apple.com/la/newsroom/2023/06/introducing-apple-vision-pro/)
 	 
-
 [^7]:	Weinstein, David. (26 de octubre de 2022). ¿Qué Es la Realidad Extendida? [https://la.blogs.nvidia.com/2022/10/26/que-es-la-realidad-extendida/](https://la.blogs.nvidia.com/2022/10/26/que-es-la-realidad-extendida/)
 
 [^8]:	Manovich, Lev. (2013). El Software toma el mando. (p. 265). Barcelona: Editorial UOC.
