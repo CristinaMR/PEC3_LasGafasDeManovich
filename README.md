@@ -44,7 +44,7 @@ Auque a día de hoy estas gafas son todavía un prototipo y a fines prácticos h
 
 **Realidad extendida** es un concepto paraguas que engloba el conjunto de tecnologías inmersivas de realidad virtual, realidad aumentada y realidad mixta. Suele ser referido por su acrónimo en inglés XR, de *extended reality*.[^7]
 
-La **realidad virtual **(VR por sus siglas en inglés) coloca al usuario en un entorno netamente generado por ordenador en el que puede moverse gracias a controles externos como gafas integrales o guanteletes de acción. La VR es común en el mundo de los videojuegos si bien, a estas alturas, parece la más arcaica de todas las realidades extendidas.
+La **realidad virtual**(VR por sus siglas en inglés) coloca al usuario en un entorno netamente generado por ordenador en el que puede moverse gracias a controles externos como gafas integrales o guanteletes de acción. La VR es común en el mundo de los videojuegos si bien, a estas alturas, parece la más arcaica de todas las realidades extendidas.
 
 La **realidad aumentada** (AR) superpone elementos digitales sobre el mundo real, sirviéndose comúnmente de las cámaras y pantallas de los dispositivos móviles. Su referente más popular es sin duda el juego japonés Pokémon Go!
 
